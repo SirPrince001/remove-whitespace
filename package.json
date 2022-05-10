@@ -1,5 +1,5 @@
 {
-  "name": "removewhitespace",
+  "name": "removewhitespaceregex",
   "version": "1.0.0",
   "description": "remove whitespace with regex",
   "main": "index.js",
