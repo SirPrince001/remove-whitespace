@@ -1,0 +1,19 @@
+{
+  "name": "removewhitespace",
+  "version": "1.0.0",
+  "description": "remove whitespace with regex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SirPrince001"
+  },
+  "keywords": [
+    "npm",
+    "regex"
+  ],
+  "author": "prince bassey",
+  "license": "ISC"
+}
